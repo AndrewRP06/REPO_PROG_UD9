@@ -1,7 +1,7 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
-package actividades.ud9_excepciones;
+package ejecicio2;
 import java.io.* ;
 /**
  *
