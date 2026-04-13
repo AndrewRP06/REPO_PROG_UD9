@@ -21,7 +21,7 @@ Este repositorio contiene las soluciones desarrolladas para los desafíos de pro
 | **Ejercicio 01** | Aun lo tengo que hacer:| [Ver Código](./EJercico1) |
 | **Ejercicio 02** | El uso incorrecto del FileReader:. | [Ver Código](./ejercicio2/Main.java) |
 | **Ejercicio 03** | El uso indebido del BufferedReader:. | [Ver Código](./ejercicio3/Main.java) |
-| **Ejercicio 04** | La gestión crítica de recursos: El cierre del flujo en NumerosReales.txt:. | [Ver Código](./ejercicio4/Main.java) |
+| **Ejercicio 04** | La gestión crítica de recursos: El cierre del flujo en NumerosReales.txt:. | [Ver Código](./ejercicio_4/Main.java) |
 | **Ejercicio 05** | La notificación temporal:. | [Ver Código](./a05) |
 
 | **Práctica Final** | Proyecto integrador de la unidad 8(de momoento no). | [Ver Código](./practica-final) |
