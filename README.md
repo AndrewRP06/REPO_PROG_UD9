@@ -9,7 +9,7 @@ Este repositorio contiene las soluciones desarrolladas para los desafíos de pro
 
 ## 🛠️ Tecnologías Utilizadas
 * **Lenguaje: [ Java ]
-* **IDE: [Eclipse]
+* **IDE: [NetBeans]
 * **Control de Versiones: Git & GitHub
 
 ---
@@ -18,8 +18,8 @@ Este repositorio contiene las soluciones desarrolladas para los desafíos de pro
  
 | Ejercicio | Descripción | Enlace |
 | :--- | :--- | :--- |
-| **Ejercicio 01** | Ecosistema de dispositivos conectados:| [Ver Código](./a01) |
-| **Ejercicio 02** | Pasarela de Pagos:. | [Ver Código](./a02) |
+| **Ejercicio 01** | Ecosistema de dispositivos conectados:| [Ver Código](./EJercico1) |
+| **Ejercicio 02** | Pasarela de Pagos:. | [Ver Código](./Ejercicio2) |
 | **Ejercicio 03** | Centralita de notificaciones:. | [Ver Código](./a03) |
 | **Ejercicio 04** | Dispositivos de oficina:. | [Ver Código](./a04) |
 | **Ejercicio 05** | La notificación temporal:. | [Ver Código](./a05) |
