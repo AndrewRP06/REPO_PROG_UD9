@@ -18,9 +18,9 @@ Este repositorio contiene las soluciones desarrolladas para los desafíos de pro
  
 | Ejercicio | Descripción | Enlace |
 | :--- | :--- | :--- |
-| **Ejercicio 01** | Ecosistema de dispositivos conectados:| [Ver Código](./EJercico1) |
+| **Ejercicio 01** | Aun lo tengo que hacer:| [Ver Código](./EJercico1) |
 | **Ejercicio 02** | El uso incorrecto del FileReader:. | [Ver Código](./ejercicio2/Main.java) |
-| **Ejercicio 03** | Centralita de notificaciones:. | [Ver Código](./a03) |
+| **Ejercicio 03** | El uso indebido del BufferedReader:. | [Ver Código](./ejercicio3/Main.java) |
 | **Ejercicio 04** | Dispositivos de oficina:. | [Ver Código](./a04) |
 | **Ejercicio 05** | La notificación temporal:. | [Ver Código](./a05) |
 
