@@ -9,7 +9,7 @@ import java.io.* ;
  */
 public class Main {
 public static void main(String[] args) {
-    try (BufferedReader in = new BufferedReader(new FileReader("C:\\Users\\PC GAMING\\Downloads\\NumerosReales.txt"))) {
+    try (observador = new BufferedReader(new FileReader("C:\\Users\\PC GAMING\\Downloads\\NumerosReales.txt"))) {
         String linea;
         double suma = 0;
         int cantidad = 0;
@@ -33,6 +33,15 @@ public static void main(String[] args) {
         
             } catch (IOException e) {
                 System.out.println("Error: " + e.getMessage());
+        } finally {
+            try{
+                if(observador != null){
+                        observador.close();
+                }
+            }catch(IOException exc){
+                  System.out.println("Error.");
+            }
+        
         }
     }
 }
