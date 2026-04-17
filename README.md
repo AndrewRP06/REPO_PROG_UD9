@@ -25,7 +25,7 @@ Este repositorio contiene las soluciones desarrolladas para los desafíos de pro
 | **Ejercicio 05** | Diremos que sabemos de lectura:. | [Ver Código](./ejercicio7/Main.java) |
 | **Ejercicio 06** |Que nadie me mienta : | [Ver Código](./ejercicio8/Main.java)|
 
-| **Práctica Final** | Proyecto integrador de la unidad 8(de momoento no). | [Ver Código](./practica-final) |
+| **Práctica Final** | Proyecto totalmente inventado y sin funcion alguna pero hace espacio en el readme. | [Ver Código](./practica-final) |
 
 ---
 
