@@ -23,6 +23,7 @@ Este repositorio contiene las soluciones desarrolladas para los desafíos de pro
 | **Ejercicio 03** | El uso indebido del BufferedReader:. | [Ver Código](./ejercicio3/Main.java) |
 | **Ejercicio 04** | La gestión crítica de recursos: El cierre del flujo en NumerosReales.txt:. | [Ver Código](./ejercicio4/Main.java) |
 | **Ejercicio 05** | Diremos que sabemos de lectura:. | [Ver Código](./ejercicio7/Main.java) |
+| **Ejercicio 06** |Que nadie me mienta : | [Ver Código](./ejercicio8/Main.java)|
 
 | **Práctica Final** | Proyecto integrador de la unidad 8(de momoento no). | [Ver Código](./practica-final) |
 
